@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Past Start WO Tasks)">5bc09164013211107f44a8d41e10dbb0</button>
+        <item_parameter display_value="Past Start WO Tasks assignment_group">9bc09164013211107f44a8d41e10dbae</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 03:56:52</sys_created_on>
+        <sys_id>13c09164013211107f44a8d41e10dbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9bc09164013211107f44a8d41e10dbae</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_snc_work_order_0">2e66a0e851b211107f4457b0f2d923dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">2e66a0e851b211107f4457b0f2d923dd</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_13c09164013211107f44a8d41e10dbe7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 03:56:52</sys_updated_on>
+        <ui_parameter display_value="Assignment group">dbc09164013211107f44a8d41e10dbe4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

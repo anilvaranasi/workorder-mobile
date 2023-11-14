@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Work Orders">0ec05164013211107f44a8d41e10db65</applet_launcher>
+        <icon display_value="File">7dc05164013211107f44a8d41e10db64</icon>
+        <label>Work Orders</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 03:56:47</sys_created_on>
+        <sys_id>4ac05164013211107f44a8d41e10db66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work Orders</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_snc_work_order_0">2e66a0e851b211107f4457b0f2d923dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">2e66a0e851b211107f4457b0f2d923dd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_4ac05164013211107f44a8d41e10db66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 03:56:47</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

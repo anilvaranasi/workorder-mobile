@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"icon-Clipboard-exclamation","Value":"e946","FontColor":"#ff8c3e","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>icon-Clipboard-exclamation</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 03:56:50</sys_created_on>
+        <sys_id>7ac09164013211107f44a8d41e10db5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Clipboard-exclamation</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_snc_work_order_0">2e66a0e851b211107f4457b0f2d923dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">2e66a0e851b211107f4457b0f2d923dd</sys_scope>
+        <sys_update_name>sys_sg_icon_7ac09164013211107f44a8d41e10db5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 03:56:50</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

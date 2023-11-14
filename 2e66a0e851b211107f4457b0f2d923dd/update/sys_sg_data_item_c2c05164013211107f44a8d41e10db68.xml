@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Past Start WO Tasks Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="wm_task">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^expected_start&lt;javascript:gs.beginningOfToday()<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="expected_start" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 03:56:47</sys_created_on>
+        <sys_id>c2c05164013211107f44a8d41e10db68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Past Start WO Tasks Data Item</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_snc_work_order_0">2e66a0e851b211107f4457b0f2d923dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">2e66a0e851b211107f4457b0f2d923dd</sys_scope>
+        <sys_update_name>sys_sg_data_item_c2c05164013211107f44a8d41e10db68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 03:56:47</sys_updated_on>
+        <table>wm_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2c05164013211107f44a8d41e10db68"/>
+</record_update>
