@@ -10,6 +10,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Clipboard-exclamation">7ac09164013211107f44a8d41e10db5c</icon>
         <name>Past Start WO Tasks</name>
+        <parameter_screen/>
         <roles_override/>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>

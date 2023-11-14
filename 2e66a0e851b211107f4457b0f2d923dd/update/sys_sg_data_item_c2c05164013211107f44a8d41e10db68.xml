@@ -7,9 +7,7 @@
         <name>Past Start WO Tasks Data Item</name>
         <offline_query_condition/>
         <offline_query_condition_script/>
-        <query_condition table="wm_task">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^expected_start&lt;javascript:gs.beginningOfToday()<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-            <item endquery="false" field="expected_start" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
-        </query_condition>
+        <query_condition table="wm_task">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^expected_start&lt;javascript:gs.beginningOfToday()</query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>

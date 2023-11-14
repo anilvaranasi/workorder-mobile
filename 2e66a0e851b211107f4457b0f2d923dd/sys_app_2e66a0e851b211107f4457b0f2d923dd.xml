@@ -46,7 +46,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
-        <encryption_context/>
         <file_name>NewAppImage.jpg</file_name>
         <hash>8a045d60a25077adad710454b9726ce49e39b5883c577dc7d5f73c4f3e0bf6ed</hash>
         <image_height/>
